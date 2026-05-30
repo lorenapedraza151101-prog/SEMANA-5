@@ -1,0 +1,24 @@
+http://localhost:3000
+
+Sirve para la página principal del servidor
+
+Es la “puerta de entrada”.
+Normalmente muestra un mensaje de bienvenida o la página inicial.
+Es lo primero que ve el usuario al entrar.
+http://localhost:3000/saludo
+
+Sirve para mostrar un saludo fijo
+
+Es una ruta específica.
+Siempre responde lo mismo (por ejemplo: “Hola, bienvenido”).
+Se usa para páginas simples o pruebas.
+http://localhost:3000/mensaje/juan
+
+Sirve para enviar mensajes personalizados
+
+Aquí juan es un dato variable.
+El servidor lo toma y lo usa en la respuesta.
+Se usa para cosas como:
+perfiles de usuarios
+mensajes personalizados
+búsquedas dinámicas

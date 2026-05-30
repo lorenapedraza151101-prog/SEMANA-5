@@ -1,0 +1,11 @@
+La ruta POST /reporte sirve para enviar información al servidor.
+
+“POST” significa que no solo estás pidiendo datos, sino mandando datos nuevos.
+“/reporte” normalmente indica que estás enviando un reporte o formulario.
+
+Ejemplo simple:
+Cuando alguien llena un formulario y envía algo como:
+
+un problema en la comunidad
+una denuncia
+una sugerencia
